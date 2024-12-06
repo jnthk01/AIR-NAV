@@ -13,9 +13,6 @@ This project uses hand gesture recognition to control the mouse and keyboard. It
 - Python 3.x
 - Install dependencies:
   1. Create a virtual environment:
-     ```bash
-     
-     ```
      - On Windows:
        ```bash
        python -m venv myenv
