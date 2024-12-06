@@ -19,8 +19,8 @@ This project uses hand gesture recognition to control the mouse and keyboard. It
 - **Switch Windows (Windows + Tab)**: Raise the **Index, Middle, Ring, and Pinky fingers** of one hand to trigger the window switch action (`Windows + Tab`).
 
 ### 4. **Pause and Resume Activities:**
-- **Pause**: Open all **5 fingers** of one hand to pause all activities.
-- **Resume**: After the pause, show all **5 fingers** again to resume activities.
+- **Pause**: Open all **5 fingers** of one hand to pause all gesture activities.
+- **Resume**: After the pause, show all **5 fingers** again to resume gesture activities.
 
 ### 5. **Screenshot:**
 - **Take Screenshot**: Pinch the **Thumb, Index, and Middle fingers** to take a screenshot (`Windows + Print Screen`).
