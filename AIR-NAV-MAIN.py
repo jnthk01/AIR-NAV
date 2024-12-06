@@ -211,7 +211,7 @@ while True:
                     last_action_time=time.time()
 
 
-        if thumb==False and index==True and middle==True and ring==True and last==False and flag:
+        if thumb==False and index==True and middle==True and ring==True and last==True and flag:
             if time.time() - last_action_timeStopWT > cooldown_timeStopWT:
                 keyboard.press_and_release('windows+tab')
                 last_action_timeStopWT = time.time()
