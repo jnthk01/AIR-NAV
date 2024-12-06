@@ -61,7 +61,7 @@ This project uses hand gesture recognition to control the mouse and keyboard. It
 1. Run the **AIR-NAV-MAIN.py** to start detecting hand gestures via webcam.
 2. Perform the gestures to control the mouse, volume, or trigger keyboard shortcuts.
 
-Press 'q' to exit the program.
+Press 'q' or follow the gestures to exit the program.
 
 ## Libraries Used:
 - OpenCV
